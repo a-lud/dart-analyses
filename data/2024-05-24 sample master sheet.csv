@@ -1,0 +1,307 @@
+Genus,Species,id,Region,Locality,Country,Lat,Long,Pop,DART,Notes,Order no.,collection date,sex,latitude,lat (M),lat (DD),longitude,long (M),long (DD)
+Aipysurus,laevis,Al4,Ashmore Reef,,Australia,,,,yes,,DNote21-6332,,,,,,,,
+Aipysurus,pooleorum,BD304,Shark Bay,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,pooleorum,BD320,Shark Bay,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,pooleorum,BD325,Shark Bay,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,pooleorum,BD326,Shark Bay,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,pooleorum,BD330,Shark Bay,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,pooleorum,BD331,Shark Bay,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,pooleorum,BD337,Shark Bay,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,pooleorum,BD338,Shark Bay,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,pooleorum,BD339,Shark Bay,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,pooleorum,BD342,Shark Bay,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,tenuis,HybFa01,Broome,,Australia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,laevis/tenuis hybrid,HybJ01,Den Blå Plantet,,Denmark,,,,,,DNote22-7151,1/1/2014,,,,,,,
+Aipysurus,laevis/tenuis hybrid,HybJ03,Den Blå Plantet,,Denmark,,,,,,DNote22-7151,1/1/2014,,,,,,,
+Hydrophis,stokesii,J82337,,,,,,,yes,,DNote21-6332,,,,,,,,
+Hydrophis,major,J84471,Gulf of Carpentaria,Groote Eylandt,Australia,,,,failed,low quality,DNote20-5178,,,,,,,,
+Hydrophis,major,J87200,Fraser Island,Eurong,Australia,,,,failed,Low quality,DNote20-5178,,,,,,,,
+Hydrophis,major,J87202,Fraser Island,Eurong,Australia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,J88474,Fraser Island,Eurong,Australia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,J89073,Fraser Island,Eurong,Australia,,,,failed,,DNote20-5178,,,,,,,,
+Aipysurus,laevis,KLS0327,Scott Reef,,Australia,,,,yes,,DNote22-7151,12/3/2013,M,14,11.203,-14.18671667,121,47.583,121.79305
+Aipysurus,laevis,KLS0339,Scott Reef,,Australia,,,,yes,,DNote21-6332,12/3/2013,F,14,3.28,-14.05466667,121,47.033,121.7838833
+Hydrophis,stokesii,KLS0360,Hibernia Reef,,Australia,,,,,,DNote21-6332,15/3/2013,F,11,58.91,-11.98183333,123,20.296,123.3382667
+Hydrophis,stokesii,KLS0362,Hibernia Reef,,Australia,,,,yes,,DNote21-6332,15/3/2013,M,11,58.91,-11.98183333,123,20.296,123.3382667
+Hydrophis,stokesii,KLS0490,Broome,,Australia,,,,yes,,DNote22-7151,15/5/2014,M,17,59.362,-17.98936667,122,2.801,122.0466833
+Hydrophis,stokesii,KLS0527,Broome,,Australia,,,,yes,,DNote22-7151,22/9/2014,,18,0.487,-18.00811667,122,8.715,122.14525
+Hydrophis,stokesii,KLS0528,Broome,,Australia,,,,yes,,DNote22-7151,22/9/2014,,18,0.487,-18.00811667,122,9.209,122.1534833
+Hydrophis,stokesii,KLS0559,Pilbara,Point Samson,Australia,,,,yes,,DNote22-7151,26/9/2014,,20,25.08,-20.418,117,20.34,117.339
+Aipysurus,laevis,KLS0564 R174540,Pilbara,Point Samson,Australia,,,,yes,,DNote22-7151,,,20,26.94,-20.449,117,17.87,117.2978333
+Hydrophis,stokesii,KLS0566,Broome,,Australia,,,,yes,,DNote22-7151,28/9/2014,M,17,59.75,-17.99583333,122,2.221,122.0370167
+Hydrophis,stokesii,KLS0573,Broome,,Australia,,,,yes,,DNote22-7151,29/9/2014,F,18,3.327,-18.05545,122,12.84,122.214
+Hydrophis,stokesii,KLS0604,Broome,,Australia,,,,yes,,DNote22-7151,3/3/2015,,,,,,,
+Hydrophis,major,KLS0629,Broome,,Australia,,,,yes,,DNote20-5178,9/6/2015,M,17,58.7,-17.97833333,122,6.4,122.1066667
+Hydrophis,major,KLS0630,Broome,,Australia,,,,yes,,DNote20-5178,9/6/2015,M,18,0.1,-18.00166667,122,3.6,122.06
+Hydrophis,major,KLS0631,Broome,,Australia,,,,yes,,DNote20-5178,9/6/2015,M,18,0.3,-18.005,122,2.4,122.04
+Hydrophis,major,KLS0633,Broome,,Australia,,,,yes,,DNote20-5178,9/6/2015,M,17,58.8,-17.98,122,2.7,122.045
+Hydrophis,stokesii,KLS0634,Broome,,Australia,,,,,,DNote22-7151,9/6/2015,M,17,58.4,-17.97333333,122,5.5,122.0916667
+Hydrophis,stokesii,KLS0635,Broome,,Australia,,,,yes,,DNote21-6332,9/6/2015,M,17,58,-17.96666667,122,8.1,122.135
+Hydrophis,stokesii,KLS0636,Broome,,Australia,,,,yes,,DNote21-6332,9/6/2015,M,17,59.7,-17.995,122,5,122.0833333
+Hydrophis,major,KLS0647,Broome,,Australia,,,,yes,,DNote20-5178,10/6/2015,M,18,0.2,-18.00333333,122,2.4,122.04
+Hydrophis,major,KLS0652,Broome,,Australia,,,,yes,,DNote20-5178,9/6/2015,M,17,59.6,-17.99333333,122,5.1,122.085
+Hydrophis,stokesii,KLS0660,Broome,,Australia,,,,,,DNote22-7151,9/6/2015,JUV,17,58.8,-17.98,122,3,122.05
+Hydrophis,major,KLS0662,Broome,,Australia,,,,yes,,DNote20-5178,10/6/2015,JUV,17,59.5,-17.99166667,122,5.9,122.0983333
+Hydrophis,stokesii,KLS0675,Broome,,Australia,,,,yes,,DNote22-7151,20/6/2015,subadult,17,59.3,-17.98833333,122,6,122.1
+Hydrophis,major,KLS0676,Broome,,Australia,,,,yes,,DNote20-5178,20/6/2015,M,17,59.5,-17.99166667,122,5.2,122.0866667
+Hydrophis,stokesii,KLS0677,Broome,,Australia,,,,yes,,DNote22-7151,20/6/2015,M,17,59.7,-17.995,122,5,122.0833333
+Hydrophis,stokesii,KLS0678,Broome,,Australia,,,,yes,,DNote22-7151,20/6/2015,M,17,59.7,-17.995,122,5,122.0833333
+Hydrophis,stokesii,KLS0679,Broome,,Australia,,,,yes,,DNote22-7151,20/6/2015,M,17,59.8,-17.99666667,122,4.8,122.08
+Hydrophis,stokesii,KLS0680,Broome,,Australia,,,,yes,,DNote22-7151,20/6/2015,M,18,0.2,-18.00333333,122,3.3,122.055
+Hydrophis,stokesii,KLS0681,Broome,,Australia,,,,yes,,DNote22-7151,20/6/2015,M,18,0.7,-18.01166667,122,1.9,122.0316667
+Hydrophis,stokesii,KLS0682,Broome,,Australia,,,,yes,,DNote22-7151,20/6/2015,M,17,59.5,-17.99166667,122,2.7,122.045
+Hydrophis,stokesii,KLS0686,Broome,,Australia,,,,yes,,DNote22-7151,20/6/2015,F,17,58.3,-17.97166667,122,8.7,122.145
+Hydrophis,stokesii,KLS0687,Broome,,Australia,,,,yes,,DNote22-7151,21/6/2015,F,18,0.6,-18.01,122,2.6,122.0433333
+Hydrophis,major,KLS0762,Broome,,Australia,,,,yes,,DNote20-5178,24/9/2016,male,18,2.3,-18.03833333,122,2.4,122.04
+Aipysurus,laevis,KLS0793,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,12/4/2017,F,22,3.337,-22.05561667,114,13.386,114.2231
+Hydrophis,stokesii,KLS0794,Exmouth Gulf,,Australia,,,,yes,,DNote21-6332,12/4/2017,M,22,3.404,-22.05673333,114,13.487,114.2247833
+Hydrophis,stokesii,KLS0795,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,12/4/2017,M,22,3.589,-22.05981667,114,13.143,114.21905
+Aipysurus,laevis,KLS0796,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,12/4/2017,F,22,3.696,-22.0616,114,12.945,114.21575
+Aipysurus,laevis,KLS0797,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,12/4/2017,F,22,4.063,-22.06771667,114,13.079,114.2179833
+Hydrophis,major,KLS0798,Exmouth Gulf,,Australia,,,,yes,,DNote20-5178,13/4/2017,M,22,3.296,-22.05493333,114,13.331,114.2221833
+Hydrophis,major,KLS0799,Exmouth Gulf,,Australia,,,,yes,,DNote20-5178,13/4/2017,M,22,3.289,-22.05481667,114,13.506,114.2251
+Hydrophis,major,KLS0801,Exmouth Gulf,,Australia,,,,yes,,DNote20-5178,14/4/2017,M,22,6.35,-22.10583333,114,15.7,114.2616667
+Hydrophis,stokesii,KLS0804,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,18/4/2017,,,,,,,
+Hydrophis,major,KLS0808,Exmouth Gulf,,Australia,,,,yes,,DNote20-5178,19/4/2017,,,,,,,
+Hydrophis,major,KLS0813,Exmouth Gulf,,Australia,,,,yes,,DNote20-5178,19/4/2017,,,,,,,
+Hydrophis,major,KLS0819,Exmouth Gulf,,Australia,,,,failed,low quality,DNote20-5178,20/4/2017,,,,,,,
+Hydrophis,stokesii,KLS0843,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,25/4/2017,,,,,,,
+Hydrophis,stokesii,KLS0847,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,26/4/2017,,,,,,,
+Aipysurus,laevis,KLS0857,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,3/5/2017,,,,,,,
+Hydrophis,stokesii,KLS0858,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,3/5/2017,,,,,,,
+Aipysurus,laevis,KLS0871,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,10/5/2017,,,,,,,
+Aipysurus,laevis,KLS0872,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,10/5/2017,,,,,,,
+Hydrophis,stokesii,KLS0881,Exmouth Gulf,,Australia,,,,,failed qc,DNote21-6332,16/4/2017,M,22,19.233,-22.32055,114,11.548,114.1924667
+Hydrophis,stokesii,KLS0881,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,16/4/2017,M,22,19.233,-22.32055,114,11.55,114.1924667
+Hydrophis,stokesii,KLS0883,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,16/4/2017,F,22,10.581,-22.17635,114,5.675,114.0945833
+Hydrophis,stokesii,KLS0886,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,17/4/2017,M,22,10.449,-22.17415,114,5.681,114.0946833
+Hydrophis,stokesii,KLS0896,Exmouth Gulf,,Australia,,,,,,DNote22-7151,5/5/2017,,,,,,,
+Hydrophis,stokesii,KLS0897,Exmouth Gulf,,Australia,,,,,,DNote22-7151,5/5/2017,,,,,,,
+Hydrophis,major,KLS0898,Exmouth Gulf,,Australia,,,,failed,low quality,DNote20-5178,5/5/2017,,,,,,,
+Hydrophis,major,KLS0901,Exmouth Gulf,,Australia,,,,yes,,DNote20-5178,3/5/2017,,,,,,,
+Hydrophis,major,KLS0913,Exmouth Gulf,,Australia,,,,yes,,DNote20-5178,21/4/2017,juv,,,,,,
+Hydrophis,stokesii,KLS0923,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,23/4/2017,,,,,,,
+Hydrophis,major,KLS0933,Exmouth Gulf,,Australia,,,,yes,,DNote20-5178,2/5/2017,,,,,,,
+Hydrophis,stokesii,KLS0938,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,7/5/2017,,,,,,,
+Hydrophis,stokesii,KLS0941,Exmouth Gulf,,Australia,,,,,,DNote22-7151,8/5/2017,,,,,,,
+Hydrophis,stokesii,KLS0983,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,10/5/2017,M,,,-22.42596,,,114.19586
+Hydrophis,stokesii,KLS0986,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,12/5/2017,F,,,-22.42526,,,114.21091
+Aipysurus,pooleorum,KLS1002,Exmouth Gulf,,Australia,,,,yes,,DNote21-6332,22/4/2017,-,,,,,,
+Aipysurus,pooleorum,KLS1002,Shark Bay,,Australia,,,,yes,,DNote21-6332,16/6/2017,M,Start trawl: Lat: 25¬∞ 30.704 Long: 113¬∞ 32.553 End trawl: Lat: 25¬∞ 30.106 Long: 113¬∞ 13.526,,,,,
+Hydrophis,major,KLS1012,Broome,,Australia,,,,failed,failed qc,DNote20-5178,28/6/2018,Juv.,,,,,,
+Hydrophis,major,KLS1016,Broome,,Australia,,,,yes,,DNote20-5178,28/6/2018,F,,,,,,
+Hydrophis,major,KLS1017,Broome,,Australia,,,,yes,,DNote20-5178,28/6/2018,M,,,,,,
+Hydrophis,major,KLS1020,Broome,,Australia,,,,yes,,DNote20-5178,29/6/2018,,,,,,,
+Aipysurus,laevis,KLS1121,Broome,,Australia,,,,,,DNote22-7151,,,,,,,,
+Aipysurus,laevis,KLS1140,Broome,,Australia,,,,yes,,DNote22-7151,19/5/2021,,18,4.064,-18.06773333,122,5.614,122.0935667
+Hydrophis,stokesii,KLS1157,Broome,,Australia,,,,,,Dnote23-8773,20/5/2021,,17,59.379,-17.98965,122,6.672,122.1112
+Hydrophis,stokesii,KLS1158,Broome,,Australia,,,,,,Dnote23-8773,20/5/2021,,17,59.41,-17.99016667,122,6.58,122.1096667
+Hydrophis,stokesii,KLS1159,Broome,,Australia,,,,,,Dnote23-8773,20/5/2021,,18,1.918,-18.03196667,122,1.728,122.0288
+Aipysurus,laevis,KLS1161,Broome,,Australia,,,,Contam,,DNote22-7151,20/5/2021,,17,58.065,-17.96775,121,53.36,121.8893333
+Aipysurus,laevis,KLS1162,Broome,,Australia,,,,yes,,DNote22-7151,20/5/2021,,17,54.955,-17.91591667,121,39.422,121.6570333
+Aipysurus,laevis,KLS1163,Broome,,Australia,,,,yes,,DNote22-7151,20/5/2021,,17,54.955,-17.91591667,121,39.422,121.6570333
+Aipysurus,laevis,KLS1165,Broome,,Australia,,,,yes,,DNote22-7151,20/5/2021,,18,0.137,-18.00228333,121,55.287,121.92145
+Aipysurus,laevis,KLS1166,Broome,,Australia,,,,yes,,DNote22-7151,20/5/2021,,17,59.856,-17.9976,121,55.366,121.9227667
+Aipysurus,laevis,KLS1167,Broome,,Australia,,,,yes,,DNote22-7151,20/5/2021,,17,58.857,-17.98095,121,58.204,121.9700667
+Aipysurus,laevis,KLS1168,Broome,,Australia,,,,yes,,DNote22-7151,20/5/2021,,17,58.936,-17.98226667,121,58.868,121.9811333
+Aipysurus,laevis,KLS1169,Broome,,Australia,,,,yes,,DNote22-7151,20/5/2021,,17,58.9,-17.98166667,121,59.2,121.9866667
+Aipysurus,laevis,KLS1170,Broome,,Australia,,,,yes,,DNote22-7151,20/5/2021,,17,58.985,-17.98308333,121,59.768,121.9961333
+Hydrophis,stokesii,KLS1173,Pilbara,,Australia,,,,yes,,DNote22-7151,11/3/2022,F,,,-21.438166,,,114.827603
+Hydrophis,stokesii,KLS1182,Pilbara,,Australia,,,,yes,,DNote22-7151,12/3/2022,M,,,-20.306949,,,115.369317
+Hydrophis,stokesii,KLS1200,Pilbara,,Australia,,,,yes,,DNote22-7151,14/3/2022,F,,,-20.050212,,,118.288886
+Hydrophis,stokesii,KLS1204,Eighty Mile Beach,Pilbara,Australia,,,,,,Dnote23-8773,14/3/2022,juv,,,-19.660251,,,119.114632
+Hydrophis,stokesii,KLS1204,Eighty Mile Beach,Pilbara,Australia,,,,yes,,DNote22-7151,14/3/2022,juv,,,-19.660251,,,119.114632
+Aipysurus,laevis,KLS1205,Eighty Mile Beach,Pilbara,Australia,,,,,,Dnote23-8773,14/3/2022,F,,,-19.588498,,,119.200777
+Hydrophis,stokesii,KLS1206,Eighty Mile Beach,Pilbara,Australia,,,,yes,,DNote22-7151,14/3/2022,m,,,-19.564533,,,119.2599
+Hydrophis,stokesii,KLS1206,Eighty Mile Beach,Pilbara,Australia,,,,,,Dnote23-8773,14/3/2022,m,,,-19.564533,,,119.2599
+Hydrophis,stokesii,KLS1227,Eighty Mile Beach,Pilbara,Australia,,,,yes,,DNote22-7151,15/3/2022,m,,,-18.812164,,,121.101665
+Aipysurus,tenuis,KLS1242,,,,,,,,,Dnote23-8773,,,,,,,,
+Hydrophis,stokesii,KLS1273,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,5/4/2022,M,,,-21.996483,,,114.1363
+Hydrophis,stokesii,KLS1274,Exmouth Gulf,,Australia,,,,yes,,DNote22-7151,7/4/2022,M,,,-21.933333,,,114.149183
+Aipysurus,tenuis,KLS1283,,,,,,,,,DNote23-8392,,,,,,,,
+Aipysurus,laevis,KLS1363,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,F,,,-17.605211,,,121.983278
+Aipysurus,laevis,KLS1366,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,M,,,-17.131305,,,122.095235
+Hydrophis,stokesii,KLS1367,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,M,,,-17.046937,,,122.118755
+Hydrophis,stokesii,KLS1369,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,M,,,-17.019863,,,122.124829
+Hydrophis,stokesii,KLS1370,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,-17.01754,,,122.126665
+Hydrophis,stokesii,KLS1371,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,-17.007084,,,122.128973
+Hydrophis,stokesii,KLS1372,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,-16.882281,,,122.266438
+Aipysurus,laevis,KLS1373,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,F,,,-16.472057,,,122.681837
+Hydrophis,major,KLS1379,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,-15.738174,,,122.935035
+Hydrophis,stokesii,KLS1380,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,M,,,-15.652923,,,123.145085
+Hydrophis,stokesii,KLS1384,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,-16.094133,,,123.057184
+Hydrophis,stokesii,KLS1385,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,M,,,-16.112215,,,123.080703
+Aipysurus,laevis,KLS1387,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,F,,,-16.39226,,,122.94772
+Hydrophis,stokesii,KLS1412,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,F,,,-16.50534,,,122.46036
+Aipysurus,laevis,KLS1413,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,F,,,-16.53376,,,122.38004
+Hydrophis,stokesii,KLS1414,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,M,,,-16.56973,,,122.33425
+Aipysurus,laevis,KLS1415,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,F,,,-16.58201,,,122.31876
+Hydrophis,major,KLS1416,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,16.97113,,,122.20691
+Hydrophis,stokesii,KLS1417,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,M,,,-16.97882,,,122.18803
+Hydrophis,stokesii,KLS1418,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,-16.97997,,,122.18222
+Hydrophis,stokesii,KLS1419,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,-16.98158,,,122.17605
+Hydrophis,stokesii,KLS1420,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,F,,,-16.987,,,122.1633
+Hydrophis,major,KLS1421,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,16.98824,,,122.15766
+Hydrophis,stokesii,KLS1422,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,M,,,-16.98841,,,122.15563
+Hydrophis,stokesii,KLS1424,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,-16.98912,,,122.13171
+Hydrophis,stokesii,KLS1429,Dampier Peninsula,Kimberley,Australia,,,,,,Dnote23-8773,,J,,,-16.98254,,,122.17569
+Aipysurus,laevis,KLS1444,Exmouth Gulf,,Australia,,,,,,Dnote23-8773,25/5/2023,F,,,-21.99717,,,114.13983
+Aipysurus,laevis,KLS1448,Exmouth Gulf,,Australia,,,,,,Dnote23-8773,25/5/2023,F,,,-22.13187,,,114.11627
+Aipysurus,laevis,KLS1452,Exmouth Gulf,,Australia,,,,,,Dnote23-8773,29/5/2023,F,,,-22.113167,,,114.135333
+Aipysurus,laevis,KLS1453,Exmouth Gulf,,Australia,,,,,,Dnote23-8773,29/5/2023,F,,,-21.931949,,,114.139559
+Aipysurus,laevis,KLS1453,Exmouth Gulf,,Australia,,,,,,Dnote23-8773,30/5/2023,F,,,-21.958387,,,114.14308
+Aipysurus,laevis,KLS1467,Exmouth Gulf,,Australia,,,,,,Dnote23-8773,31/5/2023,M,,,-21.799917,,,114.218917
+Aipysurus,laevis,KLS1474,Exmouth Gulf,,Australia,,,,,,Dnote23-8773,1/6/2023,F,,,-22.15383,,,114.204
+Aipysurus,laevis,KLS1479,Exmouth Gulf,,Australia,,,,,,Dnote23-8773,1/6/2023,F,,,,,,
+Aipysurus,laevis,KLS1492,Exmouth Gulf,,Australia,,,,,,Dnote23-8773,3/6/2023,M,,,,,,
+Hydrophis,major,KLS1514,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,M,,,-20.301305,,,116.862631
+Hydrophis,stokesii,KLS1515,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,,,,,,,
+Hydrophis,stokesii,KLS1517,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,M,,,-20.337169,,,116.946904
+Hydrophis,major,KLS1522,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,M,,,-20.302797,,,117.040712
+Aipysurus,laevis,KLS1526,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,M,,,-20.317292,,,117.104097
+Hydrophis,stokesii,KLS1528,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,M,,,-20.329011,,,117.171996
+Hydrophis,major,KLS1538,,,,,,,,,Dnote23-8773,,,,,,,,
+Hydrophis,stokesii,KLS1541,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,M,,,-20.3166,,,117.19613
+Hydrophis,stokesii,KLS1544,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,M,,,-20.333191,,,117.165648
+Aipysurus,laevis,KLS1548,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,F,,,-20.339739,,,117.350591
+Aipysurus,laevis,KLS1549,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,M,,,-20.334901,,,117.388027
+Hydrophis,major,KLS1553,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,M,,,-20.327143,,,117.32854
+Hydrophis,major,KLS1554,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,M,,,-20.319392,,,117.358379
+Aipysurus,laevis,KLS1555,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,F,,,-20.322558,,,117.327685
+Hydrophis,stokesii,KLS1556,Pilbara,Dampier MP,Australia,,,,,,Dnote23-8773,,F,,,-20.332429,,,117.289929
+Hydrophis,major,MAGNT R36643,,,Australia,,,,,?R36633 possibly,DNote20-5178,,,,,,,,
+Aipysurus,laevis,MAGNT R36654,Gulf of Carpentaria,Groote Eylandt,Australia,,,,yes,,DNote21-6332,,,,,,,,
+Hydrophis,stokesii,MT176,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,MT177,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,MT178,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,MT200,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,mt203,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,mt204,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,mt205,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,Mt212,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,MT213,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,MT214,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,MT215,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,yes,,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,MT216,SULAWESI SELATAN,MAKASSAR,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,MW04488,Weipa,Queensland,Australia,,,,yes,,DNote21-6332,,,,,,,,
+Hydrophis,stokesii,MW04720,SULAWESI SELATAN,Makassar,Indonesia,,,,yes,,DNote21-6332,1/2/2010,,,,,,,
+Hydrophis,stokesii,MW04723,SULAWESI SELATAN,Makassar,INDONESIA,,,,,failed qc,DNote22-7151,1/4/2010,,,,,,,
+Hydrophis,stokesii,MW04726,SULAWESI SELATAN,Makassar,INDONESIA,,,,yes,,DNote21-6332,1/4/2010,,,,,,,
+Hydrophis,major,NC_166,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,NC_167,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,NC_169,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,NC_173,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,NC_174,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,NC_176,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,NC_179,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,NC_180,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,NC_181,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,NC_189,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Aipysurus,laevis,NC_2019_217,New Caledonia,,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Aipysurus,laevis,NC_2019_247,New Caledonia,,New Caledonia,,,,yes,,DNote20-5178,,,,,,,,
+Aipysurus,laevis,NC_Jan2019_208,New Caledonia,Bourake,New Caledonia,,,,,poss. Same ind. as NC_Jan2019_217,DNote21-6332,,,,,,,,
+Aipysurus,laevis,NC_Jan2019_213,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,laevis,NC_Jan2019_217,New Caledonia,La Foa,New Caledonia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,laevis,NC_Jan2019_227,New Caledonia,Ricaudy,New Caledonia,,,,yes,,DNote22-7151,,f,,,,,,
+Aipysurus,laevis,NC_Jan2019_247,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote22-7151,,,,,,,,
+Aipysurus,laevis,NC_Jan2019_253,New Caledonia,,New Caledonia,,,,,,DNote23-8392,,,,,,,,
+Aipysurus,laevis,NC_Jan2019_269,New Caledonia,,New Caledonia,,,,,,DNote23-8392,,,,,,,,
+Aipysurus,laevis,NC_Jan2019_271,New Caledonia,Recif Senez,New Caledonia,,,,yes,,DNote22-7151,,M,,,,,,
+Aipysurus,laevis,NC_Jan2019_275,New Caledonia,,New Caledonia,,,,,,DNote23-8392,,,,,,,,
+Aipysurus,laevis,NC_Jan2019_282,New Caledonia,Noumea,New Caledonia,,,,yes,,DNote21-6332,,,,,,,,
+Hydrophis,major,R154981,Shark Bay,,Australia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,R29873,Gulf of Carpentaria,Northeast of Vanderlin Island,Australia,,,,yes,,DNote20-5178,6/10/2006,,15,9.1,-15.15166667,137,35.7,137.595
+Hydrophis,major,R29875,Gulf of Carpentaria,North of Vanderlin Island,Australia,,,,yes,,DNote20-5178,20/10/2006,,15,7.25,-15.12083333,137,5,137.0833333
+Aipysurus,laevis,R29880,Gulf of Carpentaria,Bathurst Island,Australia,,,,,,DNote22-7151,,,,,-16.373083,,,138.470617
+Aipysurus,laevis,R29880,Gulf of Carpentaria,Bathurst Island,Australia,,,,Contam,,DNote21-6332,,,,,-16.373083,,,138.470617
+Hydrophis,major,R36496,Gulf of Carpentaria,South of Groote Eylandt,Australia,,,,yes,,DNote20-5178,27/11/2007,,14,27.12,-14.452,136,35.017,136.5836167
+Hydrophis,major,R36640,Gulf of Carpentaria,South of Groote Eylandt,Australia,,,,yes,,DNote20-5178,11/11/2007,,14,25.4,-14.42333333,136,26.9,136.4483333
+Hydrophis,major,R36656,Gulf of Carpentaria,South of Groote Eylandt,Australia,,,,yes,,DNote20-5178,11/11/2007,,14,25.3,-14.42166667,136,28.2,136.47
+Hydrophis,major,R36660,Gulf of Carpentaria,South of Groote Eylandt,Australia,,,,yes,,DNote20-5178,16/11/2007,,14,25.2,-14.42,136,26.1,136.435
+Aipysurus,laevis,R36967,Gulf of Carpentaria,Groote Eylandt,Australia,,,,yes,,DNote22-7151,,,,,-14.426667,,,136.47
+Aipysurus,laevis,R36974,Gulf of Carpentaria,Groote Eylandt,Australia,,,,yes,,DNote22-7151,,,,,-14.465,,,136.518333
+Hydrophis,major,R36982,Gulf of Carpentaria,South of Groote Eylandt,Australia,,,,yes,,DNote20-5178,14/11/2007,,14,24.6,-14.41,136,26.9,136.4483333
+Aipysurus,laevis,R37003,Gulf of Carpentaria,Groote Eylandt,Australia,,,,yes,,DNote22-7151,,,,,-14.42,,,136.471667
+Hydrophis,major,R37004,Gulf of Carpentaria,South of Groote Eylandt,Australia,,,,failed,low quality,DNote20-5178,14/11/2009,,14,24.6,-14.41,136,26.9,136.4483333
+Hydrophis,major,R37005,Gulf of Carpentaria,South of Groote Eylandt,Australia,,,,yes,,DNote20-5178,14/11/2009,,14,25.9,-14.43166667,136,26.9,136.4483333
+Aipysurus,laevis,R37010,Gulf of Carpentaria,Groote Eylandt,Australia,,,,yes,,DNote22-7151,,,,,-14.013333,,,136.991667
+Hydrophis,major,R37023,Gulf of Carpentaria,"The Border, E of Sir Edward Pellew Group",Australia,,,,failed,low quality,DNote20-5178,28/9/2009,,15,41,-15.68333333,138,0,138
+Aipysurus,laevis,R37025,Gulf of Carpentaria,Sir Edward Pellew Group,Australia,,,,yes,,DNote22-7151,,,,,-15.65,,,137.983333
+Aipysurus,laevis,R37027,Gulf of Carpentaria,Vanderlin Island,Australia,,,,yes,,DNote22-7151,,,,,-15.416667,,,137.783333
+Hydrophis,major,R37031,Gulf of Carpentaria,Northwest of Mornington Island,Australia,,,,yes,,DNote20-5178,12/8/2009,,15,45,-15.75,138,21,138.35
+Aipysurus,laevis,R37032,Gulf of Carpentaria,Mornington Island,Australia,,,,yes,,DNote22-7151,,,,,-15.966667,,,139.233333
+Aipysurus,laevis,R37034,Gulf of Carpentaria,Mornington Island,Australia,,,,yes,,DNote22-7151,,,,,-15.983333,,,139.25
+Hydrophis,major,R37037,Gulf of Carpentaria,"The Border, E of Sir Edward Pellew Group",Australia,,,,yes,,DNote20-5178,7/10/2009,,15,40,-15.66666667,137,50,137.8333333
+Aipysurus,laevis,R37101,Gulf of Carpentaria,Groote Eylandt,Australia,,,,yes,,DNote22-7151,,,,,-13.016667,,,136.8
+Aipysurus,laevis,R37113,Gulf of Carpentaria,Regan Shoal,Australia,,,,yes,,DNote22-7151,,,,,-12.576833,,,136.9493
+Aipysurus,laevis,R37116,Gulf of Carpentaria,Sir Edward Pellew Group,Australia,,,,yes,,DNote22-7151,,,,,-15.666667,,,137.833333
+Aipysurus,laevis,R37122,Gulf of Carpentaria,Mornington Island,Australia,,,,yes,,DNote22-7151,,,,,-15.59,,,139.32
+Aipysurus,laevis,R37128,Gulf of Carpentaria,Mornington Island,Australia,,,,yes,,DNote22-7151,,,,,-15.983333,,,139.533333
+Hydrophis,major,R37138,Gulf of Carpentaria,North of Mornington Island,Australia,,,,yes,,DNote20-5178,6/8/2009,,15,55,-15.91666667,139,17,139.2833333
+Aipysurus,laevis,R37140,Gulf of Carpentaria,Mornington Island,Australia,,,,yes,,DNote22-7151,,,,,-16.333333,,,136.6
+Aipysurus,laevis,SS170808-01,Pilbara,Locker Point,Australia,,,,Contam,,DNote21-6332,8/8/2017,,,,-21.50888,,,114.711945
+Aipysurus,laevis,SS170808-06,Pilbara,Locker Point,Australia,,,,yes,,DNote22-7151,8/8/2017,,,,-21.55711,,,114.69176
+Hydrophis,major,SS170809_02,Pilbara,,Australia,,,,yes,,DNote20-5178,,,,,,,,
+Aipysurus,laevis,SS170809-01,Pilbara,Locker Point,Australia,,,,yes,,DNote22-7151,9/8/2017,,,,-21.477015,,,114.704675
+Aipysurus,laevis,SS170809-03,Pilbara,Locker Point,Australia,,,,yes,,DNote22-7151,9/8/2017,,,,-21.52123,,,114.72207
+Aipysurus,laevis,SS170810-01,Pilbara,Locker Point,Australia,,,,yes,,DNote22-7151,10/8/2017,,,,-21.68917,,,114.73473
+Hydrophis,major,SS170812_01,Pilbara,,Australia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,stokesii,SS170812-02,Pilbara,Cape Preston,Australia,,,,,,DNote21-6332,12/8/2017,,,,-20.80543,,,115.984265
+Hydrophis,stokesii,SS170812-02,Pilbara,Cape Preston,Australia,,,,,failed qc,DNote22-7151,12/8/2017,,,,-20.80543,,,115.984265
+Aipysurus,laevis,SS170813-01,Pilbara,Cape Preston,Australia,,,,yes,,DNote22-7151,13/8/2017,,,,-20.74362,,,116.11592
+Hydrophis,major,SS170814_02,Pilbara,,Australia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,stokesii,SS170814-01,Pilbara,Cape Preston,Australia,,,,yes,,DNote21-6332,14/8/2017,,,,-20.85746,,,116.10578
+Aipysurus,laevis,SS170815-01,Pilbara,Cape Preston,Australia,,,,yes,,DNote22-7151,15/8/2017,,,,-20.81831,,,116.20197
+Aipysurus,laevis,SS170815-03,Pilbara,Cape Preston,Australia,,,,yes,,DNote22-7151,15/8/2017,,,,-20.78315,,,116.24828
+Aipysurus,laevis,SS170815-04,Pilbara,Cape Preston,Australia,,,,yes,,DNote22-7151,15/8/2017,,,,-20.78377,,,116.24638
+Aipysurus,laevis,SS170816-01,Pilbara,Cape Preston,Australia,,,,yes,,DNote21-6332,16/8/2017,,,,-20.86957,,,116.16207
+Aipysurus,laevis,SS170816-01,Pilbara,Cape Preston,Australia,,,,,,DNote22-7151,16/8/2017,,,,-20.86957,,,116.16207
+Hydrophis,major,SS170818_01,Pilbara,,Australia,,,,yes,,DNote20-5178,,,,,,,,
+Hydrophis,major,SS170820_01,Pilbara,,Australia,,,,failed,,DNote20-5178,,,,,,,,
+Aipysurus,laevis,SS170820-01,Pilbara,,Australia,Cape Keraudren,,,,,DNote21-6332,20/8/2017,,,,-19.743255,,,119.7372
+Hydrophis,stokesii,SS170820-02,Eighty Mile Beach,Pilbara,Australia,Cape Keraudren,,,yes,,DNote22-7151,20/8/2017,,,,-19.74386,,,119.735535
+Aipysurus,laevis,SS170820-05,Eighty Mile Beach,Pilbara,Australia,Cape Keraudren,,,yes,,DNote22-7151,20/8/2017,,,,-19.723,,,119.747375
+Aipysurus,laevis,SS170822-01,Eighty Mile Beach,Pilbara,Australia,Cape Keraudren,,,yes,,DNote22-7151,22/8/2017,,,,-19.75854,,,119.87187
+Aipysurus,laevis,SS170822-02,Eighty Mile Beach,Pilbara,Australia,Cape Keraudren,,,Contam,,DNote22-7151,22/8/2017,,,,-19.79095,,,119.94598
+Aipysurus,laevis,SS170822-03,Eighty Mile Beach,Pilbara,Australia,Cape Keraudren,,,yes,,DNote22-7151,22/8/2017,,,,-19.78478,,,119.94202
+Aipysurus,laevis,SS171011-02,Pilbara,,Australia,OM20,,,yes,,DNote22-7151,11/10/2017,,,,-18.7128665,,,121.0250295
+Aipysurus,laevis,SS171011-03,Eighty Mile Beach,Pilbara,Australia,OM20,,,yes,,DNote22-7151,11/10/2017,,,,-18.7128665,,,121.0250295
+Aipysurus,laevis,SS171018-02,Pilbara,,Australia,W10,,,yes,,DNote22-7151,18/10/2017,,,,-20.157877,,,117.9239895
+Aipysurus,tenuis,SS171020-04,Pilbara,,Australia,,,,yes,,DNote21-6332,,,,,,,,
+Hydrophis,major,SS171024_01,Pilbara,,Australia,,,,yes,,DNote20-5178,,,,,,,,
+Aipysurus,laevis,SS171025-01,Pilbara,W51,Australia,,,,yes,,DNote22-7151,25/10/2017,,,,-20.2095,,,116.4369
+Aipysurus,laevis,SS171025-02,Pilbara,W84,Australia,,,,Contam,,DNote22-7151,25/10/2017,,,,-20.06495,,,116.3441
+Aipysurus,laevis,SS171104-01,Pilbara,W18,Australia,,,,yes,,DNote22-7151,4/11/2017,,,,-20.50535,,,116.0066
+Aipysurus,laevis,SS171105-01,Pilbara,W2,Australia,,,,Contam,,DNote22-7151,5/11/2017,,,,-20.57125,,,116.05345
+Aipysurus,laevis,SS171106-02,Pilbara,W14,Australia,,,,yes,,DNote22-7151,6/11/2017,,,,-20.3471,,,115.7385
+Aipysurus,laevis,SS171106-03,Pilbara,W3,Australia,,,,yes,,DNote22-7151,6/11/2017,,,,-20.56015,,,116.14285
+Aipysurus,laevis,UAE275,,,Australia,,,,,Definitely not laevis,DNote22-7151,,,,,,,,
+Hydrophis,stokesii,VU116,Heywood Shoal,,Australia,,,,yes,,DNote22-7151,9/9/2018,M,,,-13.29063333,,,125.7573833
+Aipysurus,laevis,VU121,Heywood Shoal,,Australia,,,,yes,,DNote21-6332,13/9/2018,F,,,-13.44941667,,,124.0430833
+Hydrophis,stokesii,VU127,Heywood Shoal,,Australia,,,,yes,,DNote21-6332,13/9/2018,Juv,,,,,,
+Aipysurus,laevis,VU130,Heywood Shoal,,Australia,,,,yes,,DNote21-6332,13/9/2018,F,,,-13.46833333,,,124.0384667
+Aipysurus,laevis,VU131,Heywood Shoal,,Australia,,,,yes,,DNote20-5178,13/9/2018,M,,,-13.4666,,,124.0370333
+Aipysurus,laevis,VU131,Heywood Shoal,,Australia,,,,,failed qc,DNote21-6332,13/9/2018,M,,,-13.4666,,,124.0370333
+Aipysurus,laevis,VU131,Heywood Shoal,,Australia,,,,,,DNote22-7151,13/9/2018,M,,,-13.4666,,,124.0370333
+Aipysurus,laevis,VU132,Heywood Shoal,,Australia,,,,yes,,DNote21-6332,13/9/2018,M,,,-13.4627,,,124.0349333
+Hydrophis,stokesii,VU135,Heywood Shoal,,Australia,,,,yes,,DNote22-7151,14/9/2018,M,,,-13.4782,,,124.1045333
+Hydrophis,stokesii,VU141,Heywood Shoal,,Australia,,,,yes,,DNote21-6332,14/9/2018,M,,,-13.435,,,124.0418
+Hydrophis,stokesii,VU143,Heywood Shoal,,Australia,,,,yes,,DNote22-7151,14/9/2018,M,,,-13.45923333,,,124.0371833
+Aipysurus,laevis,VU15,Dampier Peninsula,,Australia,,,,yes,,DNote22-7151,5/8/2018,M,,,-17.74055,,,122.1288833
+Aipysurus,laevis,VU20,Dampier Peninsula,,Australia,,,,yes,,DNote22-7151,5/8/2018,F,,,-17.64753333,,,122.0456833
+Aipysurus,laevis,VU21,Dampier Peninsula,,Australia,,,,yes,,DNote22-7151,5/8/2018,F,,,-17.64816667,,,122.0447167
+Aipysurus,laevis,VU33,Dampier Peninsula,,Australia,,,,yes,,DNote22-7151,8/8/2018,F,,,-17.6636,,,121.2675333
+Aipysurus,laevis,VU37,Dampier Peninsula,NE Lacepede Islands,Australia,,,,yes,,DNote22-7151,9/8/2018,F,,,-16.67605,,,121.7777167
+Hydrophis,stokesii,VU38,Dampier Peninsula,,Australia,,,,yes,,DNote22-7151,9/8/2018,Juv,,,-16.67605,,,121.7777167
+Hydrophis,major,VU46,Dampier Peninsula,Northwest of Lacepede Islands,Australia,,,,failed,low quality,DNote20-5178,10/8/2018,M,,,-16.65644167,,,121.7861833
+Aipysurus,laevis,VU47,Dampier Peninsula,S Lacepede Islands,Australia,,,,yes,,DNote22-7151,11/8/2018,M,,,-17.03931667,,,122.0957833
+Aipysurus,laevis,VU50,Dampier Peninsula,S Lacepede Islands,Australia,,,,yes,,DNote22-7151,13/8/2018,F,,,-17.01185833,,,122.0403
+Aipysurus,laevis,VU51,Eighty Mile Beach,Pilbara,Australia,,,,yes,,DNote22-7151,15/8/2018,F,,,-19.77450833,,,119.62525
+Aipysurus,laevis,VU53,Eighty Mile Beach,Pilbara,Australia,,,,yes,,DNote22-7151,15/8/2018,M,,,-19.77451667,,,119.6136583
+Hydrophis,major,VU55,Eighty Mile Beach,Pilbara,Australia,,,,yes,,DNote20-5178,15/8/2018,M,,,-19.64631667,,,119.737695
+Hydrophis,major,VU61,Eighty Mile Beach,Pilbara,Australia,,,,yes,,DNote20-5178,16/8/2018,F,,,-19.64340833,,,119.7983583
+Aipysurus,laevis,VU62,Eighty Mile Beach,Pilbara,Australia,,,,yes,,DNote22-7151,16/8/2018,F,,,-19.37012833,,,119.7481083
+Hydrophis,major,WAM R154978,Shark Bay,,Australia,,,,yes,,DNote21-6332,,,,,,,,
+Hydrophis,major,WAM R154980,Shark Bay,,Australia,,,,yes,,DNote21-6332,,,,,,,,
+Hydrophis,major,WAM R154981,Shark Bay,,Australia,,,,yes,,DNote21-6332,,,,,,,,
+Hydrophis,major,WAMR154978,Shark Bay,,Australia,,,,yes,,DNote20-5178,,,,,,,,
